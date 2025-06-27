@@ -49,7 +49,9 @@ const options = {
       name: "| resume",
       value: async () => {
         console.log("opening resume ...");
-        open("https://www.google.com");
+        open(
+          "https://drive.google.com/file/d/1rp7YcWaModxmp8_CzYQu7Y3pSWcMJtfJ/view?usp=sharing",
+        );
       },
     },
     "- exit",
