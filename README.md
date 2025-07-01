@@ -1,6 +1,6 @@
 ## NPX Profile
 
-You can access the npx card by running the following command:
+You can access the card by running the following command:
 
 ```bash
 npx amuyl
