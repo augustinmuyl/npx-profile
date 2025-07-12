@@ -54,6 +54,13 @@ const options = {
         );
       },
     },
+    {
+      name: "| website",
+      value: async () => {
+        console.log("opening website ...");
+        open("https://www.augustinmuyl.com/");
+      },
+    },
     "- exit",
   ],
 };
