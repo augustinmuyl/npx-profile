@@ -15,7 +15,7 @@ const data = {
   name: chalk.bold.green("@amuyl"),
   github: chalk.hex("#787878")("https://github.com/augustinmuyl/"),
   npx: chalk.hex("#787878")("npx amuyl"),
-  email: chalk.hex("#787878")("augustinmuyl.dev@gmail.com"),
+  email: chalk.hex("#787878")("muyl.augustin@gmail.com"),
 
   labelGithub: chalk.hex("#9E9E9E").bold("git:"),
   labelEmail: chalk.hex("#9E9E9E").bold("eml:"),
@@ -50,7 +50,7 @@ const options = {
       value: async () => {
         console.log("opening resume ...");
         open(
-          "https://drive.google.com/file/d/1rp7YcWaModxmp8_CzYQu7Y3pSWcMJtfJ/view?usp=sharing",
+          "https://drive.google.com/file/d/1McNIXMQf6-TFefXL0MhKP9H6vXCZOfF4/view?usp=sharing",
         );
       },
     },
